@@ -24,3 +24,14 @@ Python
 Pandas
 Scikit-learn
 Streamlit
+
+## Submission Links
+
+GitHub Repository:
+https://github.com/sdas45git/recommendation-system-assignment20
+
+Render Deployment:
+https://movie-recommendation-system-sbqe.onrender.com
+
+Dataset Used:
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
